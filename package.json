@@ -1,6 +1,6 @@
 {
   "name": "angular-web-serial",
-  "version": "0.0.11",
+  "version": "17.0.0",
   "description": "Angular library for Web Serial API with RxJS",
   "repository": {
     "type": "git",
